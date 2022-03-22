@@ -66,7 +66,7 @@ Simply do `%proxy hu` in `#proxy-commands` for more Holy Unblocker links on the 
 Either use the button above to deploy to Heroku or do the below:
 
 ```
-git clone https://github.com/titaniumnetwork-dev/Holy-Unblocker.git
+git clone https://github.com/EngineXNetwork/Holy-Unblocker.git
 
 cd Holy-Unblocker
 
