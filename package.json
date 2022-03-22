@@ -1,7 +1,7 @@
 {
     "name": "holyub",
     "version": "5.0.0",
-    "repository": "https://github.com/QuiteAFancyEmerald/Holy-Unblocker",
+    "repository": "https://github.com/EngineXNetwork/Holy-Unblocker",
     "description": "Holy Unblocker is a secure web proxy service with support for many sites.",
     "main": "backend.js",
     "scripts": {
@@ -12,14 +12,20 @@
         "node.js",
         "unblocker"
     ],
-    "author": "Titanium Network",
+    "author": "EngineXNetwork",
     "license": "MIT",
     "dependencies": {
-        "babel": "^6.23.0",
+        "acorn-hammerhead": "^0.5.0",
         "corrosion": "^1.0.0",
+        "css-tree": "^2.0.4",
         "express": "^4.17.1",
         "mime-types": "^2.1.27",
         "node-fetch": "^3.2.0",
+        "parse5": "^6.0.1",
+        "webpack": "^5.69.1",
         "ws": "^7.5.3"
+    },
+    "engines": {
+        "node": ">=13.20.0"
     }
 }
